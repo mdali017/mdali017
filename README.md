@@ -1,6 +1,6 @@
+![MERN Stack Developer](https://i.ibb.co/wpmrQ49/MErn-stack-developer.jpg)
 ### Hi there 👋, I'm Mohabbat Ali
 #### MERN Stack Developer
-![MERN Stack Developer](https://i.ibb.co/wpmrQ49/MErn-stack-developer.jpg)
 
 Hi There, 
 I am a skilled MERN stack developer with expertise in building dynamic and responsive web applications. With a strong foundation in JavaScript and proficiency in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I have a deep understanding of the full web development process.
