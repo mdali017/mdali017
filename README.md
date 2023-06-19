@@ -2,7 +2,6 @@
 ### Hi there 👋, I'm Mohabbat Ali
 #### MERN Stack Developer
 
-Hi There, 
 I am a skilled MERN stack developer with expertise in building dynamic and responsive web applications. With a strong foundation in JavaScript and proficiency in the MERN (MongoDB, Express.js, React.js, Node.js) stack, I have a deep understanding of the full web development process.
 Using my knowledge of MongoDB for database management, Express.js for server-side development, React.js for creating interactive user interfaces, and Node.js for backend programming, I have successfully delivered robust and scalable web applications. I am experienced in RESTful API development, integrating third-party APIs, and implementing authentication and authorization mechanisms
 
